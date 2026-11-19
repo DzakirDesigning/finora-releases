@@ -1,0 +1,39 @@
+# FINORA Public Release Repository — Git Hygiene
+# DILARANG menyimpan binary APK, keystore, atau secret apa pun di dalam Git history!
+# File APK hanya boleh diunggah sebagai GitHub Release Assets.
+
+# Android & Binary Packages (NEVER commit to Git history)
+*.apk
+*.aab
+*.apks
+*.ipa
+*.zip
+*.tar.gz
+*.exe
+*.msi
+
+# Signing Keystores, Certificates & Secrets (NEVER commit)
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pk8
+*.pem
+*.key
+keystore.properties
+signing.properties
+.env
+.env.*
+*.secret
+*.token
+
+# OS, Editor & Temporary Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+*.sw?

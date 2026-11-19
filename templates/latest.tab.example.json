@@ -1,0 +1,15 @@
+{
+  "target": "tab",
+  "versionName": "REPLACE_WITH_SEMVER_EX_1.0.1",
+  "versionCode": "REPLACE_WITH_INTEGER_VERSION_CODE_EX_10001",
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/REPLACE_WITH_TAG_EX_v1.0.1/finora-tab-REPLACE_WITH_SEMVER.apk",
+  "apkSize": "REPLACE_WITH_EXACT_INTEGER_BYTE_SIZE_OF_TAB_APK",
+  "sha256": "REPLACE_WITH_64_CHAR_LOWERCASE_SHA256_OF_TAB_APK",
+  "releaseNotes": [
+    "REPLACE_WITH_TAB_RELEASE_NOTE_1",
+    "REPLACE_WITH_TAB_RELEASE_NOTE_2"
+  ],
+  "minimumSupportedVersionCode": "REPLACE_WITH_INTEGER_MIN_SUPPORTED_VERSION_CODE_EX_10000",
+  "mandatoryUpdate": false,
+  "publishedAt": "REPLACE_WITH_ISO8601_UTC_TIMESTAMP_EX_2026-11-20T09:00:00Z"
+}
