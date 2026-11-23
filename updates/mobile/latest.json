@@ -1,17 +1,17 @@
 {
   "target": "mobile",
-  "versionName": "1.0.3",
-  "versionCode": 10003,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.3/finora-mobile-1.0.3.apk",
-  "apkSize": 4000929,
-  "sha256": "342722535ebc441e53b280905e0f750db1999da37195838a5a024b8177fec20f",
+  "versionName": "1.0.4",
+  "versionCode": 10004,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.4/finora-mobile-1.0.4.apk",
+  "apkSize": 4002976,
+  "sha256": "56e24cd7cc8df0580e47aa1139b837de2d004e6f1b213ed579beb9106aebbf82",
   "releaseNotes": [
-    "In-App APK Updater resmi terhubung langsung ke GitHub Releases finora-releases",
-    "Integrasi FINORA Mobile V2 penuh dengan perbaikan Split Bill batch RPC atomik",
-    "Perbaikan background scroll lock dan hardware Back navigation Android",
-    "Pemeriksaan dan instalasi otomatis pembaruan aplikasi Android"
+    "Perbaikan navigasi Beranda (dock leftmost button reset, penutupan sheet otomatis, scroll handling)",
+    "Mode Offline Penuh (Offline Full FINORA): buka kasir, kelola produk, stok, pengeluaran & transaksi tunai saat offline",
+    "Pembaruan menu langganan & pembukaan seluruh metode pembayaran Midtrans (QRIS & Virtual Accounts)",
+    "Penyelarasan otomatis Midtrans Snap untuk eliminasi error transaksi tidak ditemukan"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-23T10:35:00Z"
+  "publishedAt": "2026-11-23T17:15:00Z"
 }
