@@ -1,16 +1,17 @@
 {
   "target": "mobile",
-  "versionName": "1.0.1",
-  "versionCode": 10001,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.1/finora-mobile-1.0.1.apk",
-  "apkSize": 3480400,
-  "sha256": "5142e215223409830f4cb63500ae1baaba8e74518c9ff443e5c213bd705b4a49",
+  "versionName": "1.0.3",
+  "versionCode": 10003,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.3/finora-mobile-1.0.3.apk",
+  "apkSize": 4000929,
+  "sha256": "342722535ebc441e53b280905e0f750db1999da37195838a5a024b8177fec20f",
   "releaseNotes": [
-    "Integrasi In-App APK Updater langsung di dalam aplikasi FINORA Mobile",
-    "Verifikasi keamanan pembaruan menggunakan SHA-256, package ID, versionCode, dan sertifikat signing resmi",
-    "Peningkatan stabilitas dan kompatibilitas distribusi rilis Android"
+    "In-App APK Updater resmi terhubung langsung ke GitHub Releases finora-releases",
+    "Integrasi FINORA Mobile V2 penuh dengan perbaikan Split Bill batch RPC atomik",
+    "Perbaikan background scroll lock dan hardware Back navigation Android",
+    "Pemeriksaan dan instalasi otomatis pembaruan aplikasi Android"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-19T10:07:30Z"
+  "publishedAt": "2026-11-23T10:35:00Z"
 }

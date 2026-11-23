@@ -1,16 +1,17 @@
 {
   "target": "tab",
-  "versionName": "1.0.1",
-  "versionCode": 10001,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.1/finora-tab-1.0.1.apk",
-  "apkSize": 3480353,
-  "sha256": "4b58cddec762d6f23bec14403a01263c744f83096d726e8d78a640ae7662b2df",
+  "versionName": "1.0.3",
+  "versionCode": 10003,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.3/finora-tab-1.0.3.apk",
+  "apkSize": 3976459,
+  "sha256": "1f510edaa2fefecd27f36d6840a2fc36b3b430fab72028276e9d6daf0788c277",
   "releaseNotes": [
-    "Integrasi In-App APK Updater langsung di dalam aplikasi FINORA Tab",
-    "Verifikasi keamanan pembaruan menggunakan SHA-256, package ID, versionCode, dan sertifikat signing resmi",
-    "Peningkatan stabilitas dan kompatibilitas distribusi rilis Android"
+    "In-App APK Updater resmi terhubung langsung ke GitHub Releases finora-releases",
+    "Integrasi FINORA Tab dengan pembaruan otomatis dan validasi sertifikat signing",
+    "Peningkatan stabilitas kasir dan sinkronisasi data transaksi",
+    "Pemeriksaan dan instalasi otomatis pembaruan aplikasi Android"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-19T10:07:30Z"
+  "publishedAt": "2026-11-23T10:35:00Z"
 }
