@@ -1,16 +1,16 @@
 {
   "target": "tab",
-  "versionName": "1.0.5",
-  "versionCode": 10005,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.5/finora-tab-1.0.5.apk",
-  "apkSize": 3979199,
-  "sha256": "e09008b13797272085602ef7d00b512ad370e64d5b5ad6ccbc82ee14717e5766",
+  "versionName": "1.0.6",
+  "versionCode": 10006,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.6/finora-tab-1.0.6.apk",
+  "apkSize": 3980167,
+  "sha256": "871092504274aa3faef328fe82f17ac5bf0fa9b07c974230ba9f25fff4c689ad",
   "releaseNotes": [
-    "Penyempurnaan mode Offline Penuh (Offline Full FINORA) dengan sinkronisasi mutasi otomatis lengkap",
-    "Penyelarasan gateway Midtrans Snap dengan opsi pembayaran Virtual Account dan QRIS lengkap",
-    "Pembaruan versi rilis stabilisasi Phase E v1.0.5"
+    "Popup pembaruan aplikasi lebih ringkas dan proporsional",
+    "Penanganan kembali dari Midtrans Snap & reuse transaksi PENDING",
+    "Dukungan WebView untuk domain Midtrans dan deeplink pembayaran e-wallet"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-24T01:15:15.588Z"
+  "publishedAt": "2026-11-24T02:14:42.903Z"
 }
