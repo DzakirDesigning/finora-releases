@@ -1,17 +1,17 @@
 {
   "target": "mobile",
-  "versionName": "1.0.6",
-  "versionCode": 10006,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.6/finora-mobile-1.0.6.apk",
-  "apkSize": 4004627,
-  "sha256": "9eb0a73b2502b292257bb3dd43b1117246f50f2c64eea1cf467a39e529f4b996",
+  "versionName": "1.0.7",
+  "versionCode": 10007,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.7/finora-mobile-1.0.7.apk",
+  "apkSize": 4005055,
+  "sha256": "4d504b735a1843c37bfc70a78ff9264a17a76b1755fc223a7d8603ca9f7d4ea1",
   "releaseNotes": [
-    "Popup pembaruan aplikasi lebih ringkas, proporsional, dengan safe area Android dan catatan dapat dibuka",
-    "Tombol Kembali ke FINORA & Android Back di halaman pembayaran Midtrans tanpa menutup aplikasi",
-    "Transaksi PENDING tetap terjaga tanpa membuat order baru berulang",
-    "Dukungan WebView untuk domain Midtrans dan deeplink pembayaran e-wallet"
+    "Dukungan penuh kanal pembayaran QRIS (other_qris, GoPay, ShopeePay) & Virtual Account Midtrans Snap",
+    "Perbaikan tata letak header halaman pembayaran Midtrans Mobile tanpa menutupi nominal tagihan",
+    "Tombol Kembali ke FINORA & Android Back tetap menjaga transaksi PENDING tanpa duplikasi order",
+    "Optimasi isolasi environment Production dan stabilitas App Updater resmi"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-24T02:14:42.903Z"
+  "publishedAt": "2026-11-24T12:29:08.707Z"
 }
