@@ -1,16 +1,17 @@
 {
   "target": "tab",
-  "versionName": "1.0.6",
-  "versionCode": 10006,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.6/finora-tab-1.0.6.apk",
-  "apkSize": 3980167,
-  "sha256": "871092504274aa3faef328fe82f17ac5bf0fa9b07c974230ba9f25fff4c689ad",
+  "versionName": "1.0.8",
+  "versionCode": 10008,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.8/finora-tab-1.0.8.apk",
+  "apkSize": 3991301,
+  "sha256": "c7cb8a7efd000e57f3738138fa7ecb002f019e770f00b3b5f8aee09aa7508a67",
   "releaseNotes": [
-    "Popup pembaruan aplikasi lebih ringkas dan proporsional",
-    "Penanganan kembali dari Midtrans Snap & reuse transaksi PENDING",
-    "Dukungan WebView untuk domain Midtrans dan deeplink pembayaran e-wallet"
+    "Split Bill mendukung pilihan N Nota Terpisah (Batch Atomik) maupun 1 Nota Gabungan (Multi-Tender)",
+    "Fitur Pulihkan Produk Arsip (Unarchive), Bagikan / Salin Nota WhatsApp, & Ekspor CSV Transaksi dan Laporan",
+    "Kalkulasi HPP Item Terjual, Estimasi Laba Bersih, & Tabel Produk Terlaris pada Laporan Keuangan",
+    "Penyelarasan tema visual FINORA POS, tipografi tabular-nums, & banner status Mode Offline (LOKAL READY)"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-24T02:14:42.903Z"
+  "publishedAt": "2026-11-24T15:41:00.000Z"
 }
