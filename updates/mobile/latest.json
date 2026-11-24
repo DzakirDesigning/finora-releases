@@ -1,17 +1,17 @@
 {
   "target": "mobile",
-  "versionName": "1.0.4",
-  "versionCode": 10004,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.4/finora-mobile-1.0.4.apk",
-  "apkSize": 4002976,
-  "sha256": "56e24cd7cc8df0580e47aa1139b837de2d004e6f1b213ed579beb9106aebbf82",
+  "versionName": "1.0.5",
+  "versionCode": 10005,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.5/finora-mobile-1.0.5.apk",
+  "apkSize": 4003704,
+  "sha256": "a8247bf425d561b2e7135488514106bc2d7b35d40c2046d06516f42072e36a37",
   "releaseNotes": [
-    "Perbaikan navigasi Beranda (dock leftmost button reset, penutupan sheet otomatis, scroll handling)",
-    "Mode Offline Penuh (Offline Full FINORA): buka kasir, kelola produk, stok, pengeluaran & transaksi tunai saat offline",
-    "Pembaruan menu langganan & pembukaan seluruh metode pembayaran Midtrans (QRIS & Virtual Accounts)",
-    "Penyelarasan otomatis Midtrans Snap untuk eliminasi error transaksi tidak ditemukan"
+    "Penyempurnaan mode Offline Penuh (Offline Full FINORA): CRUD kategori, produk, penyesuaian stok, pengeluaran & kasir tunai offline",
+    "Penjagaan navigasi Kelola Toko & Beranda (dock button instant jump, penutupan sheet otomatis)",
+    "Dukungan fallback redirectUrl pada Midtrans Snap untuk keandalan pembayaran di Android WebView",
+    "Pembaruan versi rilis stabilisasi Phase E v1.0.5"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-23T17:15:00Z"
+  "publishedAt": "2026-11-24T01:15:15.588Z"
 }
