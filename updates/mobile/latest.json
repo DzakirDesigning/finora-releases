@@ -1,18 +1,16 @@
 {
   "target": "mobile",
-  "versionName": "1.0.10",
-  "versionCode": 10010,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.10/finora-mobile-1.0.10.apk",
-  "apkSize": 4033249,
-  "sha256": "5bb85b61edcca2a0b7792ff90f19972d05a9321b57c8caa211ee8984aa15e335",
+  "versionName": "1.0.11",
+  "versionCode": 10011,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.11/finora-mobile-1.0.11.apk",
+  "apkSize": 4033527,
+  "sha256": "13290128137748758ac429289185d50a2c6e174fde1732c947c3d937dcbf522b",
   "releaseNotes": [
-    "Perbaikan keamanan penyimpanan offline: pembatasan cache historis dan peringatan eksplisit jika penyimpanan perangkat penuh",
-    "Pencegahan duplikasi sinkronisasi offline (mutex lock) dan penyimpanan riwayat percobaan ulang secara persisten",
-    "Transaksi tunai offline yang belum tersinkronisasi kini tetap tampil di riwayat transaksi",
-    "Pengetatan validasi masa aktif langganan saat offline (batas offline lease 72 jam & anti-manipulasi jam)",
-    "Rekonsiliasi otomatis status pembayaran Midtrans yang tertunda saat aplikasi dibuka kembali"
+    "Dukungan penuh transaksi offline untuk semua metode pembayaran manual: Tunai, QRIS, Transfer Bank, dan Campuran (Multi-Tender)",
+    "Penyempurnaan pesan error jaringan agar lebih jelas dan ramah bagi kasir",
+    "Perbaikan jarak aman (safe-area) pada layar Checkout dan Riwayat Transaksi agar tidak menabrak status bar Android"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-25T14:10:00.000Z"
+  "publishedAt": "2026-11-25T15:12:00.000Z"
 }
