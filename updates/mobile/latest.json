@@ -1,17 +1,17 @@
 {
   "target": "mobile",
-  "versionName": "1.0.8",
-  "versionCode": 10008,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.8/finora-mobile-1.0.8.apk",
-  "apkSize": 4015769,
-  "sha256": "492dc1a74fd114e534f9bfbd288b16042bc6ad9c1b9c81a06222e8b03d9914d3",
+  "versionName": "1.0.9",
+  "versionCode": 10009,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.9/finora-mobile-1.0.9.apk",
+  "apkSize": 4032001,
+  "sha256": "c31f5f8db48eea35e9703b931cb6bb57849e69d9a800e4bb8babfba1d36b8582",
   "releaseNotes": [
-    "Kasir Multi-Kanal (Kasir, QRIS, GoFood, GrabFood, ShopeeFood, WhatsApp) & Pembayaran Campuran (Multi-Tender)",
-    "Pencarian Foto Produk Online (Smart Image Discovery + kompresi WebP) & deskripsi kategori",
-    "Filter periode & sumber pesanan di Riwayat Transaksi, rekap kanal & pengeluaran di Laporan, serta cetak struk 80mm",
-    "Pengaturan operasional lengkap, Ubah Kata Sandi Akun, serta penyelarasan tema visual FINORA POS"
+    "Dukungan penuh Printer Thermal Bluetooth untuk cetak struk kasir & cetak nota transaksi",
+    "Menu Pengaturan Printer: pemindaian perangkat Bluetooth riil, pairing, dan pemilihan ukuran kertas 58mm & 80mm",
+    "Uji Cetak langsung dari menu pengaturan serta cetak otomatis setelah transaksi selesai",
+    "Kejujuran status koneksi (tanpa status/toast palsu) dan penanganan pemutusan koneksi printer secara andal"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-24T15:41:00.000Z"
+  "publishedAt": "2026-11-25T11:10:00.000Z"
 }

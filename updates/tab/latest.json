@@ -1,17 +1,17 @@
 {
   "target": "tab",
-  "versionName": "1.0.8",
-  "versionCode": 10008,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.8/finora-tab-1.0.8.apk",
-  "apkSize": 3991301,
-  "sha256": "c7cb8a7efd000e57f3738138fa7ecb002f019e770f00b3b5f8aee09aa7508a67",
+  "versionName": "1.0.9",
+  "versionCode": 10009,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.9/finora-tab-1.0.9.apk",
+  "apkSize": 4007527,
+  "sha256": "bdd4a9964573148cb15111cb7b2596191844742f9d34e07898154d1f7e520df0",
   "releaseNotes": [
-    "Split Bill mendukung pilihan N Nota Terpisah (Batch Atomik) maupun 1 Nota Gabungan (Multi-Tender)",
-    "Fitur Pulihkan Produk Arsip (Unarchive), Bagikan / Salin Nota WhatsApp, & Ekspor CSV Transaksi dan Laporan",
-    "Kalkulasi HPP Item Terjual, Estimasi Laba Bersih, & Tabel Produk Terlaris pada Laporan Keuangan",
-    "Penyelarasan tema visual FINORA POS, tipografi tabular-nums, & banner status Mode Offline (LOKAL READY)"
+    "Dukungan penuh Printer Thermal Bluetooth untuk cetak struk kasir & cetak nota transaksi",
+    "Menu Pengaturan Printer: pemindaian perangkat Bluetooth riil, pairing, dan pemilihan ukuran kertas 58mm & 80mm",
+    "Uji Cetak langsung dari menu pengaturan serta cetak otomatis setelah transaksi selesai",
+    "Kejujuran status koneksi (tanpa status/toast palsu) dan penanganan pemutusan koneksi printer secara andal"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-24T15:41:00.000Z"
+  "publishedAt": "2026-11-25T11:10:00.000Z"
 }
