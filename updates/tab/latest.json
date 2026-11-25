@@ -1,16 +1,17 @@
 {
   "target": "tab",
-  "versionName": "1.0.11",
-  "versionCode": 10011,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.11/finora-tab-1.0.11.apk",
-  "apkSize": 4008984,
-  "sha256": "737570b6d6ee800db9ee3f0b32a51923d0951e16ae88115bf3de09b73c9680b5",
+  "versionName": "1.0.12",
+  "versionCode": 10012,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.12/finora-tab-1.0.12.apk",
+  "apkSize": 4015314,
+  "sha256": "877f39f114dae5d6639e5a10c4c15881b5b71fe84bc0679d22ab7b89b638bbae",
   "releaseNotes": [
-    "Dukungan penuh transaksi offline untuk semua metode pembayaran manual: Tunai, QRIS, Transfer Bank, dan Campuran (Multi-Tender)",
-    "Penyempurnaan pesan error jaringan agar lebih jelas dan ramah bagi kasir",
-    "Perbaikan jarak aman (safe-area) pada layar Checkout dan Riwayat Transaksi agar tidak menabrak status bar Android"
+    "Upgrade penyimpanan offline ke database lokal IndexedDB berkapasitas besar (menghapus batas 100 riwayat transaksi lokal)",
+    "Migrasi otomatis tanpa kehilangan data dari versi v1.0.11 termasuk antrean transaksi dan validasi lisensi offline 72 jam",
+    "Dukungan sinkronisasi berantai offline: buat kategori baru, tambah produk baru, dan langsung jual di kasir saat tanpa sinyal",
+    "Isolasi konflik sinkronisasi (Sales-First) agar error satu item tidak pernah memblokir sinkronisasi nota penjualan berikutnya"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-25T15:12:00.000Z"
+  "publishedAt": "2026-11-25T16:45:00.000Z"
 }
