@@ -1,17 +1,18 @@
 {
   "target": "mobile",
-  "versionName": "1.0.9",
-  "versionCode": 10009,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.9/finora-mobile-1.0.9.apk",
-  "apkSize": 4032001,
-  "sha256": "c31f5f8db48eea35e9703b931cb6bb57849e69d9a800e4bb8babfba1d36b8582",
+  "versionName": "1.0.10",
+  "versionCode": 10010,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.10/finora-mobile-1.0.10.apk",
+  "apkSize": 4033249,
+  "sha256": "5bb85b61edcca2a0b7792ff90f19972d05a9321b57c8caa211ee8984aa15e335",
   "releaseNotes": [
-    "Dukungan penuh Printer Thermal Bluetooth untuk cetak struk kasir & cetak nota transaksi",
-    "Menu Pengaturan Printer: pemindaian perangkat Bluetooth riil, pairing, dan pemilihan ukuran kertas 58mm & 80mm",
-    "Uji Cetak langsung dari menu pengaturan serta cetak otomatis setelah transaksi selesai",
-    "Kejujuran status koneksi (tanpa status/toast palsu) dan penanganan pemutusan koneksi printer secara andal"
+    "Perbaikan keamanan penyimpanan offline: pembatasan cache historis dan peringatan eksplisit jika penyimpanan perangkat penuh",
+    "Pencegahan duplikasi sinkronisasi offline (mutex lock) dan penyimpanan riwayat percobaan ulang secara persisten",
+    "Transaksi tunai offline yang belum tersinkronisasi kini tetap tampil di riwayat transaksi",
+    "Pengetatan validasi masa aktif langganan saat offline (batas offline lease 72 jam & anti-manipulasi jam)",
+    "Rekonsiliasi otomatis status pembayaran Midtrans yang tertunda saat aplikasi dibuka kembali"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-25T11:10:00.000Z"
+  "publishedAt": "2026-11-25T14:10:00.000Z"
 }
