@@ -1,17 +1,16 @@
 {
   "target": "mobile",
-  "versionName": "1.0.13",
-  "versionCode": 10013,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.13/finora-mobile-1.0.13.apk",
-  "apkSize": 4043274,
-  "sha256": "62a1435f27646e5582bd5eb38e18b15da7e57224c6ad88cbb57843119aff27db",
+  "versionName": "1.0.14",
+  "versionCode": 10014,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.14/finora-mobile-1.0.14.apk",
+  "apkSize": 4047340,
+  "sha256": "cceaf74c9b60256566a54aaa5faa76f4c9db2b9688e7b862164c77e3e3ad958e",
   "releaseNotes": [
-    "Perbaikan sinkronisasi offline saat kembali online: kategori, produk, dan transaksi offline tidak lagi tertimpa dan tersinkronisasi penuh secara berantai",
-    "Penambahan banner peringatan transparan jika terdapat antrean perubahan offline yang tertahan",
-    "Fitur baru Pull-to-Refresh (tarik ke bawah untuk menyegarkan & sinkronisasi instan) di Beranda, Kasir, dan Riwayat Transaksi",
-    "Penambahan efek Skeleton Loading halus saat memuat data serta backdrop status bar Android agar konten tidak menabrak jam dan ikon sinyal saat di-scroll"
+    "Panel Manajemen Antrean Offline baru: ketuk banner peringatan untuk melihat detail transaksi/produk yang tertahan, kirim ulang satu per satu, kirim ulang semua, atau hapus antrean gagal",
+    "Perapian label pembayaran agar lebih jelas antara Bayar Campuran (1 nota dengan 2 metode bayar) dan Split Bill (Pisah Nota)",
+    "Peningkatan stabilitas sinkronisasi offline multi-tenant berbasis IndexedDB"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-26T00:53:00.000Z"
+  "publishedAt": "2026-11-26T04:09:33.460Z"
 }
