@@ -1,16 +1,16 @@
 {
-  "target": "tab",
-  "versionName": "1.0.14",
-  "versionCode": 10014,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.14/finora-tab-1.0.14.apk",
-  "apkSize": 4022203,
-  "sha256": "48b37c0eb83e60dd66ee7c1be2645607b22a0166299b8ae8e078ba196a603bce",
-  "releaseNotes": [
-    "Panel Manajemen Antrean Offline baru: ketuk banner peringatan untuk melihat detail transaksi/produk yang tertahan, kirim ulang satu per satu, kirim ulang semua, atau hapus antrean gagal",
-    "Perapian label pembayaran agar lebih jelas antara Bayar Campuran (1 nota dengan 2 metode bayar) dan Split Bill (Pisah Nota)",
-    "Peningkatan stabilitas sinkronisasi offline multi-tenant berbasis IndexedDB"
-  ],
-  "minimumSupportedVersionCode": 10000,
-  "mandatoryUpdate": false,
-  "publishedAt": "2026-11-26T04:09:33.460Z"
+    "target":  "tab",
+    "versionName":  "1.0.15",
+    "versionCode":  10015,
+    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.15/finora-tab-1.0.15.apk",
+    "apkSize":  4029634,
+    "sha256":  "a7bb6beb7a137ebaabf226b82fadbfaeebac30b2b5fd200911851f08e45dcf18",
+    "releaseNotes":  [
+                         "FINORA Tab: Perbaikan hierarki z-index modal \u0026 dialog konfirmasi (Kosongkan Keranjang \u0026 sidebar tidak lagi menutupi modal)",
+                         "FINORA Tab: Perapian UI Split Bill (pisah nota), jarak item-harga, ringkasan keranjang, dan penyelarasan tema Apple Clean tanpa gradasi/efek berkabut",
+                         "Peningkatan konsistensi visual dan stabilitas rilis v1.0.15 untuk Mobile \u0026 Tab"
+                     ],
+    "minimumSupportedVersionCode":  10000,
+    "mandatoryUpdate":  false,
+    "publishedAt":  "2026-11-26T15:03:46.786Z"
 }
