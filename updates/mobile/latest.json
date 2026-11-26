@@ -1,17 +1,17 @@
 {
   "target": "mobile",
-  "versionName": "1.0.12",
-  "versionCode": 10012,
-  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.12/finora-mobile-1.0.12.apk",
-  "apkSize": 4039870,
-  "sha256": "40ed0f374531fde755e077987de48664ffbd9d3853c22cc75fa3db63bc9b7a1e",
+  "versionName": "1.0.13",
+  "versionCode": 10013,
+  "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.13/finora-mobile-1.0.13.apk",
+  "apkSize": 4043274,
+  "sha256": "62a1435f27646e5582bd5eb38e18b15da7e57224c6ad88cbb57843119aff27db",
   "releaseNotes": [
-    "Upgrade penyimpanan offline ke database lokal IndexedDB berkapasitas besar (menghapus batas 100 riwayat transaksi lokal)",
-    "Migrasi otomatis tanpa kehilangan data dari versi v1.0.11 termasuk antrean transaksi dan validasi lisensi offline 72 jam",
-    "Dukungan sinkronisasi berantai offline: buat kategori baru, tambah produk baru, dan langsung jual di kasir saat tanpa sinyal",
-    "Isolasi konflik sinkronisasi (Sales-First) agar error satu item tidak pernah memblokir sinkronisasi nota penjualan berikutnya"
+    "Perbaikan sinkronisasi offline saat kembali online: kategori, produk, dan transaksi offline tidak lagi tertimpa dan tersinkronisasi penuh secara berantai",
+    "Penambahan banner peringatan transparan jika terdapat antrean perubahan offline yang tertahan",
+    "Fitur baru Pull-to-Refresh (tarik ke bawah untuk menyegarkan & sinkronisasi instan) di Beranda, Kasir, dan Riwayat Transaksi",
+    "Penambahan efek Skeleton Loading halus saat memuat data serta backdrop status bar Android agar konten tidak menabrak jam dan ikon sinyal saat di-scroll"
   ],
   "minimumSupportedVersionCode": 10000,
   "mandatoryUpdate": false,
-  "publishedAt": "2026-11-25T16:45:00.000Z"
+  "publishedAt": "2026-11-26T00:53:00.000Z"
 }
