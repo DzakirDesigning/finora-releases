@@ -1,15 +1,16 @@
 {
     "target":  "mobile",
-    "versionName":  "1.0.19",
-    "versionCode":  10019,
-    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.19/finora-mobile-1.0.19.apk",
-    "apkSize":  4087228,
-    "sha256":  "7e61690f0b331cd91ae4efe9b661654f1e4fe3ade5747ffdb45bd16a839ac184",
+    "versionName":  "1.0.20",
+    "versionCode":  10020,
+    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.20/finora-mobile-1.0.20.apk",
+    "apkSize":  4087803,
+    "sha256":  "61f217e156273c262efaa8863a948eb512ea2bff4e79369be87db938f3d5b12a",
     "releaseNotes":  [
-                         "Pull-to-refresh di Kasir kini otomatis menyegarkan antrean pesanan QR dan memicu notifikasi jika ada pesanan baru",
-                         "Ketahanan auto-sync Realtime diperkuat untuk Android WebView (visibilitychange, focus, online, dan fallback polling 25 detik)"
+                         "Menghilangkan kedipan layar Login saat cold-start aplikasi",
+                         "Transisi splash loading awal FINORA lebih halus dan konsisten",
+                         "Skeleton nama toko di Beranda saat profil masih dimuat agar tidak berkedip teks Toko belum diatur"
                      ],
     "minimumSupportedVersionCode":  10000,
     "mandatoryUpdate":  false,
-    "publishedAt":  "2026-11-27T01:14:15.554Z"
+    "publishedAt":  "2026-11-27T04:44:51.265Z"
 }
