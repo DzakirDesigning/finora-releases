@@ -1,16 +1,15 @@
 {
     "target": "mobile",
-    "versionName": "1.0.23",
-    "versionCode": 10023,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.23/finora-mobile-1.0.23.apk",
-    "apkSize": 5387825,
-    "sha256": "c738b025867c6692f64c024c7e758e498d893c077592c260fa0b81add26e7e7b",
+    "versionName": "1.0.24",
+    "versionCode": 10024,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.24/finora-mobile-1.0.24.apk",
+    "apkSize": 7852025,
+    "sha256": "90f39238f0c713b9592b54e601c595b962f0a61eb4b12f659932d7aadd925f1f",
     "releaseNotes": [
-        "Status Bar Mulus Penuh: Menghilangkan garis pembatas tipis di bawah jam/baterai Android (statusBarContrastEnforced=false & penyelarasan kanvas #f8fafc)",
-        "Perbaikan Badge Penjualan: Indikator persentase negatif kini tampil merah dengan panah ke bawah",
-        "Penguatan Push Notification & Tes Mandiri: Dukungan izin Android 13-16, prioritas tinggi anti-Doze, notifikasi pembaruan aplikasi otomatis (app_update), serta tombol Tes Notifikasi di menu Pengaturan"
+        "Identitas Logo Baru FINORA: Pembaruan ikon aplikasi (Adaptive Icon), splash screen, ikon notifikasi status bar, serta logo di dalam aplikasi",
+        "Ekspor Laporan Excel (.xlsx) Rapi + Pop-up Buka File: Ekspor transaksi & laporan kini berformat Excel asli (2 sheet: Ringkasan & Detail Transaksi, styling header, format Rupiah, rumus SUM), tersimpan langsung ke folder utama Download (muncul di Recent), dan dilengkapi pop-up tombol Buka File"
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T14:42:00.759Z"
+    "publishedAt": "2026-11-27T16:25:36.338Z"
 }

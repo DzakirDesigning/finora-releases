@@ -1,14 +1,15 @@
 {
     "target": "tab",
-    "versionName": "1.0.19",
-    "versionCode": 10019,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.19/finora-tab-1.0.19.apk",
-    "apkSize": 5363093,
-    "sha256": "4c74f7942449ec25c21c2420d4b68a9a3a884ca5f8f4b3ddd2564b5e51e63102",
+    "versionName": "1.0.20",
+    "versionCode": 10020,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.20/finora-tab-1.0.20.apk",
+    "apkSize": 7827273,
+    "sha256": "d136b670524c1aecc8401c5d0225a26b2a89735f38c664decc286a9f2db4478d",
     "releaseNotes": [
-        "Penguatan Push Notification & Tes Mandiri: Dukungan izin Android 13-16, prioritas tinggi anti-Doze, notifikasi pembaruan aplikasi otomatis (app_update), serta tombol Tes Notifikasi di Pengaturan"
+        "Identitas Logo Baru FINORA: Pembaruan ikon aplikasi (Adaptive Icon), splash screen, ikon notifikasi status bar, serta logo di dalam aplikasi",
+        "Ekspor Laporan Excel (.xlsx) Rapi + Pop-up Buka File: Ekspor transaksi & laporan kini berformat Excel asli (2 sheet: Ringkasan & Detail Transaksi, styling header, format Rupiah, rumus SUM), tersimpan langsung ke folder utama Download (muncul di Recent), dan dilengkapi pop-up tombol Buka File"
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T14:42:00.759Z"
+    "publishedAt": "2026-11-27T16:25:36.338Z"
 }
