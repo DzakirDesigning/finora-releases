@@ -1,16 +1,16 @@
 {
     "target":  "tab",
-    "versionName":  "1.0.15",
-    "versionCode":  10015,
-    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.15/finora-tab-1.0.15.apk",
-    "apkSize":  4029634,
-    "sha256":  "a7bb6beb7a137ebaabf226b82fadbfaeebac30b2b5fd200911851f08e45dcf18",
+    "versionName":  "1.0.16",
+    "versionCode":  10016,
+    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.16/finora-tab-1.0.16.apk",
+    "apkSize":  4062535,
+    "sha256":  "7af3dfdc6227d15a9c18669e93b33ca4f0350486a8d27ac09776f550d02de01a",
     "releaseNotes":  [
-                         "FINORA Tab: Perbaikan hierarki z-index modal \u0026 dialog konfirmasi (Kosongkan Keranjang \u0026 sidebar tidak lagi menutupi modal)",
-                         "FINORA Tab: Perapian UI Split Bill (pisah nota), jarak item-harga, ringkasan keranjang, dan penyelarasan tema Apple Clean tanpa gradasi/efek berkabut",
-                         "Peningkatan konsistensi visual dan stabilitas rilis v1.0.15 untuk Mobile \u0026 Tab"
+                         "Antrean Pesanan QR Real-time di layar Kasir FINORA Tab (Proses ke Keranjang, Tolak, dan auto-complete saat checkout)",
+                         "Pengaturan QR Pesanan Menu, Kelola Meja Restoran, dan Generator Kartu QR Siap Cetak (PNG) ke Galeri Android",
+                         "Ketahanan auto-sync Realtime diperkuat untuk Android WebView (visibilitychange, focus, online, dan fallback polling 25 detik)"
                      ],
     "minimumSupportedVersionCode":  10000,
     "mandatoryUpdate":  false,
-    "publishedAt":  "2026-11-26T15:03:46.786Z"
+    "publishedAt":  "2026-11-27T01:14:15.554Z"
 }

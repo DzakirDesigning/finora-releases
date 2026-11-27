@@ -1,16 +1,15 @@
 {
     "target":  "mobile",
-    "versionName":  "1.0.18",
-    "versionCode":  10018,
-    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.18/finora-mobile-1.0.18.apk",
-    "apkSize":  4086666,
-    "sha256":  "1ee2907928e27990d428ecc757b4cf8e2fbe3237483dff28ccb22b4e0f30d634",
+    "versionName":  "1.0.19",
+    "versionCode":  10019,
+    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.19/finora-mobile-1.0.19.apk",
+    "apkSize":  4087228,
+    "sha256":  "7e61690f0b331cd91ae4efe9b661654f1e4fe3ade5747ffdb45bd16a839ac184",
     "releaseNotes":  [
-                         "Perbaikan modal Antrean QR agar tampil di atas Bottom Dock, otomatis tertutup saat pindah tab, dan dapat di-scroll mulus",
-                         "Simpan Kartu QR (PNG) langsung ke Galeri Android (Pictures/FINORA) melalui MediaStore native",
-                         "Perbaikan auto-complete status pesanan QR (completed) setelah pembayaran kasir berhasil"
+                         "Pull-to-refresh di Kasir kini otomatis menyegarkan antrean pesanan QR dan memicu notifikasi jika ada pesanan baru",
+                         "Ketahanan auto-sync Realtime diperkuat untuk Android WebView (visibilitychange, focus, online, dan fallback polling 25 detik)"
                      ],
     "minimumSupportedVersionCode":  10000,
     "mandatoryUpdate":  false,
-    "publishedAt":  "2026-11-27T00:27:25.259Z"
+    "publishedAt":  "2026-11-27T01:14:15.554Z"
 }
