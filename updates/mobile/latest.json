@@ -1,15 +1,16 @@
 {
     "target": "mobile",
-    "versionName": "1.0.21",
-    "versionCode": 10021,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.21/finora-mobile-1.0.21.apk",
-    "apkSize": 5386306,
-    "sha256": "f0a8c209be114ec5ae869b76099e5a2b559f2419aa7bbae70d076440cf49f049",
+    "versionName": "1.0.22",
+    "versionCode": 10022,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.22/finora-mobile-1.0.22.apk",
+    "apkSize": 5386575,
+    "sha256": "f909b8a960637503bd9579a6358552151e35e9d75498b60e92ec748ca4141c8d",
     "releaseNotes": [
-        "Ekspor CSV Native Android: Perbaikan ekspor CSV rekap transaksi & laporan agar langsung tersimpan ke folder Download/FINORA (Android 10+ via MediaStore) atau Share Sheet (Android < 10)",
-        "Push Notification Real-Time (FCM): Dukungan notifikasi native Android untuk Pesanan QR Baru, Stok Menipis/Habis, dan Pengingat Langganan H-2 (tetap masuk meski aplikasi ditutup), lengkap dengan navigasi langsung saat notifikasi diketuk"
+        "Redesign Toast Notifikasi: Tampilan snackbar terang (light-surface) dengan ikon semantik di atas bilah navigasi bawah agar tidak menutupi header toko",
+        "Seamless Edge-to-Edge Status Bar: Area status bar Android menyatu penuh dengan latar belakang aplikasi tanpa strip putih pembatas, lengkap dengan penyesuaian safe-area",
+        "Ekspor CSV Native & Push Notification FCM: Mencakup seluruh pembaruan dari v1.0.21 (simpan CSV langsung ke Download/FINORA + notifikasi real-time Pesanan QR, Stok, dan Langganan)"
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T13:53:41.411Z"
+    "publishedAt": "2026-11-27T14:10:04.200Z"
 }
