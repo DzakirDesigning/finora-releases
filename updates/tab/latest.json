@@ -1,15 +1,16 @@
 {
     "target": "tab",
-    "versionName": "1.0.21",
-    "versionCode": 10021,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.21/finora-tab-1.0.21.apk",
-    "apkSize": 7801269,
-    "sha256": "363ae2f7e3df2b6c9ab95ec02557940aa7193a15c51c64369498bb6390142b16",
+    "versionName": "1.0.22",
+    "versionCode": 10022,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.22/finora-tab-1.0.22.apk",
+    "apkSize": 7765602,
+    "sha256": "b0151e79bb78660a5a5f4c40ae14f8ce2b9f1cf73a4193a806bcefce5c58a5f8",
     "releaseNotes": [
-        "Logo Horizontal FINORA di Header: Logo Finora transparan tampil rapi di bagian atas Beranda Mobile V2 dan sidebar FINORA Tab",
-        "Proporsi Ikon Launcher Baru: Ukuran simbol huruf F pada launcher Android diperkecil ke safe-zone agar tidak terpotong di launcher lingkaran/squircle"
+        "Splash Screen Minimalis: Tampilan logo horizontal Finora bersih di atas kanvas terang dengan penahan 1,4 detik dan transisi fade-out halus",
+        "Halaman Login Modern: Desain cardless dengan input kapsul (pill), ikon semantik, dan tombol Masuk penuh (paritas Mobile V2 & Tab)",
+        "Paritas UI Tab & Ikon Launcher Baru: Toast light-surface, safe-area edge-to-edge di Tab, serta penyempurnaan skala ikon launcher F (37% foreground / 47% legacy)"
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T16:40:43.209Z"
+    "publishedAt": "2026-11-27T17:20:53.453Z"
 }
