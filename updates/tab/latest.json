@@ -1,16 +1,16 @@
 {
     "target": "tab",
-    "versionName": "1.0.22",
-    "versionCode": 10022,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.22/finora-tab-1.0.22.apk",
-    "apkSize": 7765602,
-    "sha256": "b0151e79bb78660a5a5f4c40ae14f8ce2b9f1cf73a4193a806bcefce5c58a5f8",
+    "versionName": "1.0.23",
+    "versionCode": 10023,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.23/finora-tab-1.0.23.apk",
+    "apkSize": 7768187,
+    "sha256": "d2e7db7708cf9ae41626b5a548b763b9be44f4bd57a61b29cfae5c404c9caf70",
     "releaseNotes": [
-        "Splash Screen Minimalis: Tampilan logo horizontal Finora bersih di atas kanvas terang dengan penahan 1,4 detik dan transisi fade-out halus",
-        "Halaman Login Modern: Desain cardless dengan input kapsul (pill), ikon semantik, dan tombol Masuk penuh (paritas Mobile V2 & Tab)",
-        "Paritas UI Tab & Ikon Launcher Baru: Toast light-surface, safe-area edge-to-edge di Tab, serta penyempurnaan skala ikon launcher F (37% foreground / 47% legacy)"
+        "Halaman login modern (cardless + input kapsul + logo Finora) seragam di Mobile & Tab.",
+        "Audit pra-rilis & stabilitas: proteksi double-submit kasir, normalisasi sumber pesanan \"QR Self-Order\", paritas indikator tren Laporan Tab, perbaikan listener Android, dan pesan error Bahasa Indonesia.",
+        "Perbaikan fitur Tes Notifikasi di Pengaturan (CORS Edge Function & penanganan status offline)."
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T17:20:53.453Z"
+    "publishedAt": "2026-11-27T23:02:00.000Z"
 }
