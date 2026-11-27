@@ -1,15 +1,15 @@
 {
     "target": "mobile",
-    "versionName": "1.0.24",
-    "versionCode": 10024,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.24/finora-mobile-1.0.24.apk",
-    "apkSize": 7852025,
-    "sha256": "90f39238f0c713b9592b54e601c595b962f0a61eb4b12f659932d7aadd925f1f",
+    "versionName": "1.0.25",
+    "versionCode": 10025,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.25/finora-mobile-1.0.25.apk",
+    "apkSize": 7826030,
+    "sha256": "f73d59b64536197de5403f16555e70f61bb98338fb44520f09d854a2dc36feb5",
     "releaseNotes": [
-        "Identitas Logo Baru FINORA: Pembaruan ikon aplikasi (Adaptive Icon), splash screen, ikon notifikasi status bar, serta logo di dalam aplikasi",
-        "Ekspor Laporan Excel (.xlsx) Rapi + Pop-up Buka File: Ekspor transaksi & laporan kini berformat Excel asli (2 sheet: Ringkasan & Detail Transaksi, styling header, format Rupiah, rumus SUM), tersimpan langsung ke folder utama Download (muncul di Recent), dan dilengkapi pop-up tombol Buka File"
+        "Logo Horizontal FINORA di Header: Logo Finora transparan tampil rapi di bagian atas Beranda Mobile V2 dan sidebar FINORA Tab",
+        "Proporsi Ikon Launcher Baru: Ukuran simbol huruf F pada launcher Android diperkecil ke safe-zone agar tidak terpotong di launcher lingkaran/squircle"
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T16:25:36.338Z"
+    "publishedAt": "2026-11-27T16:40:43.209Z"
 }
