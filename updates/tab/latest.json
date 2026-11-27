@@ -1,15 +1,14 @@
 {
     "target": "tab",
-    "versionName": "1.0.18",
-    "versionCode": 10018,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.18/finora-tab-1.0.18.apk",
-    "apkSize": 5361650,
-    "sha256": "09c69b89c8fd22c70e174ed9b5600090c322e5f55962f6114860509bed8f5eb8",
+    "versionName": "1.0.19",
+    "versionCode": 10019,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.19/finora-tab-1.0.19.apk",
+    "apkSize": 5363093,
+    "sha256": "4c74f7942449ec25c21c2420d4b68a9a3a884ca5f8f4b3ddd2564b5e51e63102",
     "releaseNotes": [
-        "Ekspor CSV Native Android: Perbaikan ekspor CSV rekap transaksi & laporan agar langsung tersimpan ke folder Download/FINORA (Android 10+ via MediaStore) atau Share Sheet (Android < 10)",
-        "Push Notification Real-Time (FCM): Dukungan notifikasi native Android untuk Pesanan QR Baru, Stok Menipis/Habis, dan Pengingat Langganan H-2 (tetap masuk meski aplikasi ditutup), lengkap dengan navigasi langsung saat notifikasi diketuk"
+        "Penguatan Push Notification & Tes Mandiri: Dukungan izin Android 13-16, prioritas tinggi anti-Doze, notifikasi pembaruan aplikasi otomatis (app_update), serta tombol Tes Notifikasi di Pengaturan"
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T13:53:41.411Z"
+    "publishedAt": "2026-11-27T14:42:00.759Z"
 }
