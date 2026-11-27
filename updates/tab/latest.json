@@ -1,15 +1,15 @@
 {
-    "target":  "tab",
-    "versionName":  "1.0.17",
-    "versionCode":  10017,
-    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.17/finora-tab-1.0.17.apk",
-    "apkSize":  4063104,
-    "sha256":  "79326f6dab4016118a441eddbdbdcd8b8b3c2ede228699f6961fc7156bef882f",
-    "releaseNotes":  [
-                         "Menghilangkan kedipan layar Login saat cold-start aplikasi",
-                         "Transisi splash loading awal FINORA lebih halus dan konsisten"
-                     ],
-    "minimumSupportedVersionCode":  10000,
-    "mandatoryUpdate":  false,
-    "publishedAt":  "2026-11-27T04:44:51.265Z"
+    "target": "tab",
+    "versionName": "1.0.18",
+    "versionCode": 10018,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.18/finora-tab-1.0.18.apk",
+    "apkSize": 5361650,
+    "sha256": "09c69b89c8fd22c70e174ed9b5600090c322e5f55962f6114860509bed8f5eb8",
+    "releaseNotes": [
+        "Ekspor CSV Native Android: Perbaikan ekspor CSV rekap transaksi & laporan agar langsung tersimpan ke folder Download/FINORA (Android 10+ via MediaStore) atau Share Sheet (Android < 10)",
+        "Push Notification Real-Time (FCM): Dukungan notifikasi native Android untuk Pesanan QR Baru, Stok Menipis/Habis, dan Pengingat Langganan H-2 (tetap masuk meski aplikasi ditutup), lengkap dengan navigasi langsung saat notifikasi diketuk"
+    ],
+    "minimumSupportedVersionCode": 10000,
+    "mandatoryUpdate": false,
+    "publishedAt": "2026-11-27T13:53:41.411Z"
 }

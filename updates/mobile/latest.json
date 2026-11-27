@@ -1,16 +1,15 @@
 {
-    "target":  "mobile",
-    "versionName":  "1.0.20",
-    "versionCode":  10020,
-    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.20/finora-mobile-1.0.20.apk",
-    "apkSize":  4087803,
-    "sha256":  "61f217e156273c262efaa8863a948eb512ea2bff4e79369be87db938f3d5b12a",
-    "releaseNotes":  [
-                         "Menghilangkan kedipan layar Login saat cold-start aplikasi",
-                         "Transisi splash loading awal FINORA lebih halus dan konsisten",
-                         "Skeleton nama toko di Beranda saat profil masih dimuat agar tidak berkedip teks Toko belum diatur"
-                     ],
-    "minimumSupportedVersionCode":  10000,
-    "mandatoryUpdate":  false,
-    "publishedAt":  "2026-11-27T04:44:51.265Z"
+    "target": "mobile",
+    "versionName": "1.0.21",
+    "versionCode": 10021,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.21/finora-mobile-1.0.21.apk",
+    "apkSize": 5386306,
+    "sha256": "f0a8c209be114ec5ae869b76099e5a2b559f2419aa7bbae70d076440cf49f049",
+    "releaseNotes": [
+        "Ekspor CSV Native Android: Perbaikan ekspor CSV rekap transaksi & laporan agar langsung tersimpan ke folder Download/FINORA (Android 10+ via MediaStore) atau Share Sheet (Android < 10)",
+        "Push Notification Real-Time (FCM): Dukungan notifikasi native Android untuk Pesanan QR Baru, Stok Menipis/Habis, dan Pengingat Langganan H-2 (tetap masuk meski aplikasi ditutup), lengkap dengan navigasi langsung saat notifikasi diketuk"
+    ],
+    "minimumSupportedVersionCode": 10000,
+    "mandatoryUpdate": false,
+    "publishedAt": "2026-11-27T13:53:41.411Z"
 }
