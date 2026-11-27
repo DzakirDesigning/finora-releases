@@ -1,16 +1,16 @@
 {
     "target":  "mobile",
-    "versionName":  "1.0.16",
-    "versionCode":  10016,
-    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.16/finora-mobile-1.0.16.apk",
-    "apkSize":  4054308,
-    "sha256":  "b4d060b07f5921b7319082c730c244af555d5f785f181b30d8e15f026af480a0",
+    "versionName":  "1.0.17",
+    "versionCode":  10017,
+    "apkUrl":  "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.17/finora-mobile-1.0.17.apk",
+    "apkSize":  4084241,
+    "sha256":  "ac1435eb97e4bda3bd5a7b8f6a0e2835eeaa9cace9331bdd02e4f8e29811db3b",
     "releaseNotes":  [
-                         "Perbaikan tampilan kartu \u0026 bilah navigasi solid untuk Android WebView",
-                         "Menghapus efek transparan/frosted glass pada seluruh kartu, modal, sheet, header, dan bottom dock Mobile V2",
-                         "Penambahan fade scrim lembut di bawah dock agar konten scroll tetap rapi"
+                         "Antrean Pesanan QR Real-time di layar Kasir lengkap dengan notifikasi pesanan baru, Proses ke Keranjang, Tolak, dan auto-complete saat checkout",
+                         "Pengaturan QR Pesanan Menu \u0026 Kelola Meja Restoran langsung dari menu Pengaturan",
+                         "Generator Kartu QR Siap Cetak (PNG resolusi tinggi) untuk mode 1 QR toko maupun QR per meja"
                      ],
     "minimumSupportedVersionCode":  10000,
     "mandatoryUpdate":  false,
-    "publishedAt":  "2026-11-26T15:17:50.885Z"
+    "publishedAt":  "2026-11-27T00:04:20.338Z"
 }
