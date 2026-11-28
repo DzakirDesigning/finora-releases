@@ -1,16 +1,16 @@
 {
     "target": "tab",
-    "versionName": "1.0.24",
-    "versionCode": 10024,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.24/finora-tab-1.0.24.apk",
-    "apkSize": 10385887,
-    "sha256": "57b3b7a01e58673cbe78ac930ec9a6f5cec777e6c397a5805577327793958666",
+    "versionName": "1.0.25",
+    "versionCode": 10025,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.25/finora-tab-1.0.25.apk",
+    "apkSize": 10385963,
+    "sha256": "f94c65098ff9d3d480f62cc7969ae24bfc3c7bb718f8e0147c8dd04d74319d6c",
     "releaseNotes": [
-        "Header atas 1 baris lebih ringkas & tegas dengan logo horizontal FINORA sejajar judul halaman.",
-        "Sidebar kiri lebih bersih tanpa logo ganda dan tanpa garis pembatas atas yang memotong.",
-        "Area katalog kasir lebih lega dengan menyembunyikan subjudul header yang tidak diperlukan."
+        "Sidebar kiri Tab V2 diperlebar (88px) agar seluruh label menu termasuk Pengeluaran dan Pengaturan tampil utuh tanpa terpotong.",
+        "Padding atas daftar menu sidebar dirapikan agar ikon Dashboard tidak menempel ke tepi atas layar.",
+        "Header atas 1 baris dengan logo FINORA tampil bersih dan proporsional."
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-28T11:00:00.000Z"
+    "publishedAt": "2026-11-28T11:25:00.000Z"
 }
