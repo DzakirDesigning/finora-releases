@@ -1,16 +1,15 @@
 {
     "target": "mobile",
-    "versionName": "1.0.27",
-    "versionCode": 10027,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.27/finora-mobile-1.0.27.apk",
-    "apkSize": 7792927,
-    "sha256": "5c0dc17f3a3cf35c64bead491a825c2bd63b1693af751f260d2c713d8d8ef34d",
+    "versionName": "1.0.28",
+    "versionCode": 10028,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/v1.0.28/finora-mobile-1.0.28.apk",
+    "apkSize": 10389595,
+    "sha256": "68b1dc765b88979b5d345e16996beca2cef01089844769a6196ba258a04a2008",
     "releaseNotes": [
-        "Halaman login modern (cardless + input kapsul + logo Finora) seragam di Mobile & Tab.",
-        "Audit pra-rilis & stabilitas: proteksi double-submit kasir, normalisasi sumber pesanan \"QR Self-Order\", paritas indikator tren Laporan Tab, perbaikan listener Android, dan pesan error Bahasa Indonesia.",
-        "Perbaikan fitur Tes Notifikasi di Pengaturan (CORS Edge Function & penanganan status offline)."
+        "Perbaikan modal langganan Finora POS UMKM (penghapusan duplikasi, teks produksi profesional, dan pengaman mode demo).",
+        "Penambahan opsi Coba Demo 24 Jam serta sinkronisasi stabilitas aplikasi Mobile V2."
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T23:02:00.000Z"
+    "publishedAt": "2026-11-28T13:45:00.000Z"
 }
