@@ -1,16 +1,16 @@
 {
     "target": "tab",
-    "versionName": "1.0.23",
-    "versionCode": 10023,
-    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.23/finora-tab-1.0.23.apk",
-    "apkSize": 7768187,
-    "sha256": "d2e7db7708cf9ae41626b5a548b763b9be44f4bd57a61b29cfae5c404c9caf70",
+    "versionName": "1.0.24",
+    "versionCode": 10024,
+    "apkUrl": "https://github.com/DzakirDesigning/finora-releases/releases/download/tab-v1.0.24/finora-tab-1.0.24.apk",
+    "apkSize": 10385887,
+    "sha256": "57b3b7a01e58673cbe78ac930ec9a6f5cec777e6c397a5805577327793958666",
     "releaseNotes": [
-        "Halaman login modern (cardless + input kapsul + logo Finora) seragam di Mobile & Tab.",
-        "Audit pra-rilis & stabilitas: proteksi double-submit kasir, normalisasi sumber pesanan \"QR Self-Order\", paritas indikator tren Laporan Tab, perbaikan listener Android, dan pesan error Bahasa Indonesia.",
-        "Perbaikan fitur Tes Notifikasi di Pengaturan (CORS Edge Function & penanganan status offline)."
+        "Header atas 1 baris lebih ringkas & tegas dengan logo horizontal FINORA sejajar judul halaman.",
+        "Sidebar kiri lebih bersih tanpa logo ganda dan tanpa garis pembatas atas yang memotong.",
+        "Area katalog kasir lebih lega dengan menyembunyikan subjudul header yang tidak diperlukan."
     ],
     "minimumSupportedVersionCode": 10000,
     "mandatoryUpdate": false,
-    "publishedAt": "2026-11-27T23:02:00.000Z"
+    "publishedAt": "2026-11-28T11:00:00.000Z"
 }
